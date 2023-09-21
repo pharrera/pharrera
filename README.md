@@ -5,13 +5,6 @@
 
 ###
 
-<h2 align="left">About me</h2>
-
-###
-
-<p align="left">My name is Peter and I'm a student and assistant researcher at California State University Long Beach, from Palm Springs</p>
-
-###
 
 <br clear="both">
 
