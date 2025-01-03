@@ -11,13 +11,7 @@
   <img height="50" src="https://web.archive.org/web/20090903025330/http://geocities.com/sagun_0204/computer002.gif" alt="90s Computer Gif" />
 </div>
 
-## 🌟 About Me
 
-<div style="background-color: #C0C0C0; padding: 10px; border: 3px solid #000; font-family: 'Courier New', monospace;">
-  <marquee behavior="scroll" direction="left">
-    🚧 Under Construction 🚧 Radical Developer in the Making! 🌈
-  </marquee>
-</div>
 
 ## 🖥️ Tech Stack
 
@@ -45,31 +39,3 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pharrera&layout=compact&theme=radical&bg_color=000000&title_color=00FF00&text_color=00FF00" alt="Top Languages" />
 </div>
 
-## 📧 Contact Me
-
-<div style="background-color: #C0C0C0; padding: 10px; border: 3px solid #000; font-family: 'Courier New', monospace;">
-  📧 Email: pharrera@coolmail.com<br>
-  🌐 Website: [Coming Soon!]
-</div>
-
-## 🎉 Fun Extras
-
-- 💾 Floppy Disk Collector
-- 🕹️ Retro Gaming Enthusiast
-- 🌈 90s Web Design Lover
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=pharrera.pharrera" alt="Visitors" />
-</div>
-
-<div align="center">
-  <img src="https://forthebadge.com/images/badges/built-with-love.svg" alt="Built with Love" />
-  <img src="https://forthebadge.com/images/badges/uses-html.svg" alt="Uses HTML" />
-</div>
-
----
-
-<div align="center" style="font-family: 'Courier New', monospace;">
-  🌟 Last Updated: January 2025 🌟<br>
-  <img src="https://web.archive.org/web/20091020131841/http://www.geocities.com/Athens/9463/under.gif" alt="Under Construction" width="88" height="31" />
-</div>
